@@ -60213,7 +60213,7 @@ case 2:return new F.j5("https://bscscan.com/token/"+s.b.b,C.w3,"BscScan",r)
 case 3:return new F.j5("https://charts.bogged.finance/?token="+s.b.b,C.w5,"Bogged",r)
 case 4:return new F.j5("https://poocoin.app/tokens/"+s.b.b,C.wa,"Poo",r)
 case 5:return new F.j5("https://dex.guru/token/"+s.b.b,C.w9,"Dex.Guru",r)
-case 6:return new F.j5("goswapp-bsc.web.app/"+s.b.b,C.w8,"GoSwapp",r)
+case 6:return new F.j5("https://goswapp-bsc.web.app/"+s.b.b,C.w8,"GoSwapp",r)
 case 7:return T.jI(Z.aaI(L.TB(C.q5,C.jK),new F.a4z(s.a,s.b),O.aaJ(C.jK,a)),r,r)
 case 8:return T.jI(Z.aaI(L.TB(C.q6,C.jJ),new F.a4A(s.a,s.b),O.aaJ(C.jJ,a)),r,r)
 default:return L.ks("Not found",r,r,r,r,r,r)}},
